@@ -176,3 +176,6 @@ Experimental data including quantum programs, and program specifications can be 
 ## Extension
 One can checkout the code from GitHub and provide extensions to QuSBT.
 
+
+## Paper
+X. Wang, P. Arcaini, T. Yue, S. Ali. QuSBT: Search-Based Testing of Quantum Programs. In 2022 IEEE/ACM 44th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion) [[doi](https://doi.org/10.1109/ICSE-Companion55297.2022.9793826)]
