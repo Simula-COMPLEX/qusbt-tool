@@ -15,11 +15,8 @@ import numpy as np
 import rpy2.robjects as robjects
 import os
 import pandas as pd
-import gtime
 import time
 import swap
-import xlwt
-import xlrd
 
 
 def dec2bin(value, n):
