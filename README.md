@@ -31,10 +31,11 @@ and here
    ```
    conda create -n qusbt_env python=3.9
    ```
-- Activate the environment and install Qiskit and rpy2
+- Activate the environment and install Qiskit, jMetalPy, rpy2, and openpyxl
   ```
   conda activate qusbt_env
   pip install qiskit
+  pip install jmetalpy
   pip install rpy2
   pip install openpyxl
   ```
