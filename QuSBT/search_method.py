@@ -1,6 +1,5 @@
 import os
 from openpyxl import Workbook
-from gtime import GlobalTime
 from testing import dec2bin
 
 import numpy as np
